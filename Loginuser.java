@@ -1,18 +1,12 @@
-hi this is 
-login.java file 
-lets start
+public class LogicUser
+{
+	public static void main(String args[])
+	{
+		int i;
 
-jkjhkjhjhjvjhbjh
-bjhsgjh
-jgvjjh
-jkjhkjhjhjvjhbjh
-bjhsgjh
-jgvjjh
-aira 
-sdatg
-jkjjj
-hhjjhh
-ii
-djhdiu
-uhdfuyg
-i
+		for(i=0;i<=30;i++) {
+			System.ot.ptintln("Number: " +i);
+		}
+	}
+}
+
