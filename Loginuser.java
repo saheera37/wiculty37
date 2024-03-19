@@ -1,18 +1,12 @@
-hi this is 
-login.java file 
-lets start
+public class LoginUser
+{
+	public static void main(string args[])
+	{
+		int i;
 
-jkjhkjhjhjvjhbjh
-bjhsgjh
-jgvjjh
-jkjhkjhjhjvjhbjh
-bjhsgjh
-jgvjjh
-aira 
-sdatg
-jkjjj
-hhjjhh
-ii
-djhdiu
-uhdfuyg
-i
+		for(i=0;i<=10;i++){
+			system.out.println("Number: " +i);
+		}
+
+	}
+}
